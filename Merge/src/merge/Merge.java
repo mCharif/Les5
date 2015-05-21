@@ -11,11 +11,17 @@ package merge;
  */
 public class Merge {
 
-   private String mohamed;
+   private String mohamed = "mohamed is beter";
   
     public static void main(String[] args) {
         String master = "I'm in the master";
         String erik = "Erik is good";
+        
+    }
+    
+    public String verbeter(){
+    String erik = mohamed;
+    return erik;
     }
     
 }
