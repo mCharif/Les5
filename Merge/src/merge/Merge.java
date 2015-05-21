@@ -15,6 +15,7 @@ public class Merge {
   
     public static void main(String[] args) {
         String erik = "Erik is good";
+        String echtniet = "nee echt niet";
     }
     
 }
