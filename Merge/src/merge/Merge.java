@@ -15,6 +15,7 @@ public class Merge {
   
     public static void main(String[] args) {
         String master = "I'm in the master";
+        String erik = "Erik is good";
     }
     
 }
