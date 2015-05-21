@@ -14,7 +14,7 @@ public class Merge {
    private String mohamed;
   
     public static void main(String[] args) {
-        
+        String erik = "Erik is good";
     }
     
 }
